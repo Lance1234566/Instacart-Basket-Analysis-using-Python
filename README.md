@@ -40,5 +40,7 @@ Instacart, a leading online grocery store, is seeking to uncover deeper insights
 
 ## Resources
 This project uses data from the following sources:
+
 https://www.kaggle.com/c/instacart-market-basket-analysis/overview
+
 Additional data was fabricated by CareerFoundry to supplement the original dataset.
